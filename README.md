@@ -1,3 +1,4 @@
-# GeomScale_Challenges
+## GeomScale_Challenges
 Geomscale 2020 gsoc challenges
-![Google Summer Of Code](https://images.app.goo.gl/cDQLPjg2mgZnGqj17)
+
+![logo2](https://user-images.githubusercontent.com/60981694/77258157-24923800-6c4f-11ea-8258-6539ca614569.png)
