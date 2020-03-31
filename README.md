@@ -18,12 +18,12 @@ The resulting plot is the following:
 This challenge includes the implementation of randomized cutting plane method   
 for Linear Programming problems according to [1].  
 Benchmarks reporting run-time and performance of the algorithm were also conducted.  
-Results:  
-(sample of different results with run-time benchmarks)     
-![plotimg2](https://user-images.githubusercontent.com/60981694/78061132-6af53e80-7395-11ea-8a02-41939f7d4e94.png)
 
-Further improvements in the algorithm as well as its efficiency are to be made   
-in order to be more competitive against current state-of-the-art linear programming solvers.
+**Result:** a first naive implementation of the algorithm gives really encouraging results. Heuristics and further improvements can be added in order to make the algorithm more competitive against current state-of-the-art linear programming solvers.
 
+ A sample of run-time benchmarks is provided below:      
+![plotimg2](https://user-images.githubusercontent.com/60981694/78061132-6af53e80-7395-11ea-8a02-41939f7d4e94.png)  
+
+ 
 *References:*  
 **[1]** Dabbene, Fabrizio, Pavel S. Shcherbakov, Boris T. Polyak. *A randomized cutting plane method with probabilistic geometric convergence* SIAM Journal on Optimization 20.6 (2010): 3185-3207.
