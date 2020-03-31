@@ -9,9 +9,9 @@
 •	**Easy Task:**   
   This challenge aims at ensuring the successful compilation and run of Volesti package.   
   To test the installation of the package I sampled with sample_points()   
-  from a 100 dimensional hypercube and visualized the result using the R extension. 
-
+  from a 100 dimensional hypercube and visualized the result using the R extension.   
 The resulting plot is the following:
+![plotpng](https://user-images.githubusercontent.com/60981694/77974408-bb21c180-72ff-11ea-948a-79bdf6edaf15.png)
 
 •	**Medium Task**  
 This challenge includes the implementation of randomized cutting plane method   
