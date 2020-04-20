@@ -16,7 +16,7 @@ The resulting plot is the following:
 
 •	**Medium Task**  
 This challenge includes the implementation of randomized cutting plane method   
-for Linear Programming problems according to [1].  
+for Linear Programming problems according to [1].   
 Benchmarks reporting run-time and performance of the algorithm were also conducted.  
 
 **Result:** a first naive implementation of the algorithm gives really encouraging results. Heuristics and further improvements can be added in order to make the algorithm more competitive against current state-of-the-art linear programming solvers.
