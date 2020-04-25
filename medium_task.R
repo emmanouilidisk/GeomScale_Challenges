@@ -222,5 +222,4 @@ checker <- function(A,b,c){
   return(optimum)
 }
 
-
 test_fun()
