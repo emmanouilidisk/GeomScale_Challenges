@@ -20,7 +20,7 @@ for Linear Programming problems according to [1].
 Benchmarks reporting run-time and performance of the algorithm were also conducted.  
 
 **Result:** a first naive implementation of the algorithm gives really encouraging results. Heuristics and further improvements can be added in order to make the algorithm more competitive against current state-of-the-art linear programming solvers.
-  
- </br>  
-*References:*  
+</br>
+
+*References:*    
 **[1]** Dabbene, Fabrizio, Pavel S. Shcherbakov, Boris T. Polyak. *A randomized cutting plane method with probabilistic geometric convergence* SIAM Journal on Optimization 20.6 (2010): 3185-3207.
