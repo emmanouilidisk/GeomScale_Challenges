@@ -11,7 +11,7 @@
   To test the installation of the package I sampled with sample_points()   
   from a 100 dimensional hypercube and visualized the result using the R extension.  
   
-The resulting plot is the following:
+The resulting plot is the following:  
 ![plotpng](https://user-images.githubusercontent.com/60981694/77974408-bb21c180-72ff-11ea-948a-79bdf6edaf15.png)
 
 •	**Medium Task**  
@@ -20,7 +20,7 @@ for Linear Programming problems according to [1].
 Benchmarks reporting run-time and performance of the algorithm were also conducted.  
 
 **Result:** a first naive implementation of the algorithm gives really encouraging results. Heuristics and further improvements can be added in order to make the algorithm more competitive against current state-of-the-art linear programming solvers.
-
- 
+  
+ </br>  
 *References:*  
 **[1]** Dabbene, Fabrizio, Pavel S. Shcherbakov, Boris T. Polyak. *A randomized cutting plane method with probabilistic geometric convergence* SIAM Journal on Optimization 20.6 (2010): 3185-3207.
